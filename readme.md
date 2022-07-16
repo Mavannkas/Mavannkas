@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/Mavannkas/Mavannkas/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Mavannkas/Mavannkas/8f8b2f0abd6af77764da73634b71c2480b737201/snake.svg" alt="Snake animation" />
 
 ###
